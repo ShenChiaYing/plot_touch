@@ -1,4 +1,2 @@
 # plot_touch
-# plot touch test 
-# two dots moving on the screen 
-# some bugs in the program
+two dots moving on the screen but some bugs in the program
